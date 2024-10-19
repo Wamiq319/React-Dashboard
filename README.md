@@ -4,7 +4,7 @@ A feature-rich React dashboard designed to streamline team management and data v
 
 ## Live Demo
 
-You can view the live demo of the dashboard [here](https://wamiq319.github.io/team).
+You can view the live demo of the dashboard [here]( https://wamiq319.github.io/React-Dashboard/).
 
 ## Problem Statement
 
