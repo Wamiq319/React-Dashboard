@@ -30,9 +30,9 @@ In many organizations, team management and performance tracking can be cumbersom
 
 Here are some screenshots of the dashboard in action:
 
-![Dashboard Overview](assets/DashBoard(Dark).png)
+![Dashboard Overview](assets/DashBoard(Dark).jpg)
 
-![Dashboard Overview](Assets/DashBoardLight.png)
+![Dashboard Overview](Assets/DashboardLight.jpg)
 
 
 
